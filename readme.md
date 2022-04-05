@@ -22,3 +22,6 @@ Hospital green
 Dark
 #232830
 
+
+#link guia de diseño shopify
+# https://polaris.shopify.com/design/design
